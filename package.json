@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Creates .npmrc based on Azure Artifact config in .azurenpmrc.js in user home folder",
   "main": "index.js",
+  "scripts": {
+    "release": "release-it"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mogobruno/azure-npm-config.git"
