@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mogobruno/azure-npm-config/issues"
   },
-  "homepage": "https://github.com/mogobruno/azure-npm-config#readme"
+  "homepage": "https://github.com/mogobruno/azure-npm-config#readme",
+  "bin": {
+    "anpm": "./index.js"
+  }
 }
