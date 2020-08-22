@@ -1,6 +1,6 @@
 {
   "name": "azure-npm-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates .npmrc based on Azure Artifact config in .azurenpmrc.js in user home folder",
   "main": "index.js",
   "scripts": {
