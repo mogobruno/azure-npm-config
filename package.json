@@ -15,5 +15,8 @@
   "homepage": "https://github.com/mogobruno/azure-npm-config#readme",
   "bin": {
     "anpm": "./index.js"
+  },
+  "devDependencies": {
+    "release-it": "^13.6.8"
   }
 }
